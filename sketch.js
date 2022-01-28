@@ -16,7 +16,7 @@ function setup() {
   background(bg);
   console.log(windowHeight);
 
-  var points = font.textToPoints('Year of The DAO', windowWidth*120/1440, windowHeight*380/796, windowWidth*160/1440, {
+  var points = font.textToPoints('Year Of The DAO', windowWidth*120/1440, windowHeight*380/796, windowWidth*160/1440, {
     sampleFactor: 0.12
   });
 
