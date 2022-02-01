@@ -1,6 +1,5 @@
 # Year of The DAO
-
-This website was created for Colony.io challenge. I ran short on time so it is not very responsive yet.. please open on your laptop. 
+This website was created for Colony.io community challenges. Congratulations to all the winners over the 14 day challenges. It was created using p5.js which works best on desktop. 
 
 Also, big thanks to Daniel Shiffman and The Coding Train
 https://www.youtube.com/user/shiffman
